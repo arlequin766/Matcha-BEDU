@@ -1,0 +1,36 @@
+body { 
+    background-color: rgb(245, 236, 215); 
+}
+
+h1 {
+    text-align: center;
+    color: #025157;
+}
+
+h4 {
+    text-align: center;
+    color: #0950df;
+  }
+img {
+    margin:10px auto;
+    display:block;
+    width: 300px;
+}
+
+form {
+    margin:10px auto;
+    display:block;
+    width: 300px;
+}
+
+button {
+    background-color: #0f5e0d;
+    color: #fdfdfd;
+    padding: 6px 24px;
+/* https://www.cssmatic.com/es/border-radius redondear bordes del boton  */
+    border-radius: 0px 10px 10px 0px;
+    -moz-border-radius: 0px 10px 10px 0px;
+    -webkit-border-radius: 0px 10px 10px 0px;
+    border: 0px solid #000000;
+}
+
